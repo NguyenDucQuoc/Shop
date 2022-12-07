@@ -1,0 +1,18 @@
+.navbar{
+    display: none;
+}
+
+.fa-cart-shopping{
+    font-size: 20px;
+}
+.search{
+    margin-left: 350px;
+}
+.amount input{
+    min-width: 0px;
+
+}
+.amount button{
+    min-width: 40px;
+    border-radius: 10%;
+}
